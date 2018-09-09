@@ -1,0 +1,19 @@
+#title{
+    background-color:#dcdcdc; 
+    text-align: center;
+   padding: 4px;
+}
+.responsive{
+    width: 80%;
+    height: auto;
+    margin:auto;
+    display: block;
+}
+#img-caption{
+    text-align:center;
+}
+.down{
+    background-color: #dcdcdc;
+    padding: 4px;
+    overflow:hidden;
+}
